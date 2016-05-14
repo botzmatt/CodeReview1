@@ -15,6 +15,7 @@ Navigate to botzmatt.github.io.com in a web browser to access the page and enjoy
 
 ## Legal
 Copyright (c) 2016 Matt Botz
+
 This software is licensed under the **MIT license**
 
 ## Support
