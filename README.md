@@ -5,7 +5,7 @@
 This is a website designed to help you to get to know Matt Botz **(me!)** a little better. It will detail the projects that I have been part of since my classes started at Epicodus! _Hopefully_ you enjoy!
 
 ## Setup:
-Navigate to botzmatt.github.io.com in a web browser to access the page and enjoy browsing about me!
+Navigate [here](botzmatt.github.io/CodeReview1) in a web browser to access the page and enjoy browsing about me!
 
 ## Tools Used:
 * HTML
