@@ -20,4 +20,4 @@ This software is licensed under the **MIT license**
 
 ## Support
 
-[Email Me!](mailto:botzmatt@yahoo.com) if you run into any issues or have any questions!
+[Email Me](mailto:botzmatt@yahoo.com) if you run into any issues or have any questions!
