@@ -17,26 +17,6 @@
   padding: 2px;
 }
 
-.today {
-  background-color: #DCE8D8;
-  margin-top: 4px;
-  border: 1px solid black;
-}
-
-.James {
-  float: left;
-  height: auto;
-  width: 150px;
-  margin-right: 5px;
-}
-
-.tower {
-  float: right;
-  height: auto;
-  width: 150px;
-  margin: 0 5px 5px;
-}
-
 .rightheader {
   background-color: #A9C7D1;
   border: 1px solid black;
@@ -49,20 +29,6 @@
   margin-left: 4px;
   border: 1px solid black;
   padding-bottom: 240px;
-}
-
-.Werner {
-  margin-left: 4px;
-  float: right;
-  height: auto;
-  width: 75px;
-}
-
-.Duke {
-  margin-left: 4px;
-  float: right;
-  height: auto;
-  width: 115px;
 }
 
 img.fam {
