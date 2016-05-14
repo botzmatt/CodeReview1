@@ -65,17 +65,17 @@
   width: 115px;
 }
 
-img.us {
-  width: 200px;
-  height: 150px;
+img.fam {
+  width: 150px;
+  height: 200px;
   display: block;
   margin: 0 auto 14px auto;
 }
 
-.linklist2 {
+.sidebarmargin {
   list-style: none;
-  margin: 4px 0 2px;
-  border-bottom: 1px solid lightgray;
+  margin-left: 4px;
+  border: 1px solid lightgray;
 }
 
 .Me {
